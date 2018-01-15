@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+h1{
+	text-align: center;
+}
+#map{
+	margin-left: 10%;
+	margin-right: 10%;
+}

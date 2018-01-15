@@ -1,0 +1,46 @@
+
+nav {
+	float: left;
+	background-color: lightgreen;
+}
+
+#catagroy{
+}
+
+iframe {
+	float: right;
+	margin-right: 5%;
+	margin-top: -15px;
+	border: none;
+	border-left: solid;
+	height:600px;
+}
+
+.frame1{
+	width: 18%;
+	margin-right: 5%;
+}
+
+.frame2{
+	width: 55%;
+}
+
+.merchant{
+	margin-top: 10px;
+	margin-left: 20px;
+	float: left;
+	text-align: center;
+	padding: 20px;
+}
+
+.merchantButton{
+	margin: 5px;
+	height: 50px;
+	width:  120px;
+}
+
+.logout{
+	float: right;
+	margin-right: 15px;
+	background-color: lightgreen;
+}

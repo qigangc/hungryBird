@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+#changeStatus{
+	float: right;
+}
+
+#courierStatus{
+	text-align: center;
+}
+
+#status{
+	margin-left: 10%;
+	margin-right: 10%;
+}

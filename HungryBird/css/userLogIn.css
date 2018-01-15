@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+#alert{
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: Blue;
+}
+
+#logInWindow {
+	text-align: center;
+}
+
+button {
+	border-style: solid;
+	border-radius: 5px 5px 5px 5px;
+	height: auto;
+	width: auto;
+	background: rgb(13,234,228);
+	color: white;
+}
