@@ -11,3 +11,6 @@ or you can enter an address to Chrome, it's in a .txt file named "readme", locat
 please run user client and merchant client at the same time! Or cannot do deliver you know it!
 It needs account and password in order to login for each one. all passwords are: 12345 account: for user: id: zjc id: guo id: cai merchant: (only one, and please don't register one) id: uaMeal carrier: id: carrier1 carrier2 carrier3 You can register account as well (besides merchant, if you do, you won't have food in there).
 Please enjoy the website!
+
+
+Also this project link: https://hackarizona2018.hackerearth.com/zh/sprints/hack-arizona-2018/dashboard/29f9671/submission/
